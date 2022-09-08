@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+    height: 100%;
+}
+.container{
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: sans-serif;
+    transform: translateY(-320px);
+    height: 350vh;
+}
+.top{
+    text-align: center;
+    margin-top: 30px;
+}
+.top img{
+    width: 40px;
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    
+    border-radius: 20px;
+}
+.btn .ios{
+    background: rgb(3, 196, 3);
+}
+.btn .mac{
+    background: rgb(3, 3, 122);
+}
+.keep{
+    margin-top: 60px;
+}
+.img{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+.img .imagetalks{
+    padding-top: 100px;
+    margin-left: 100px;
+}
+.talk{
+    text-align: left;
+}
+.image img{
+    margin-top: 60px;
+}
+.create{
+    display: flex;
+    flex-direction: row;
+    margin: 100px;
+}
+.created{
+    text-align: center;
+    margin-left: 50px;
+}
+.created img{
+   padding-left: 0px;
+}
+.created h3{
+    text-align: center;
+}
+.part{
+    display: flex;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.part img{
+    margin-left: 70px;
+}
+.end{
+    margin-top: 50px;
+    display: flex;
+    padding: 20px;
+    background: whitesmoke;
+}
+.ended img{
+    width: 40px;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.socials{
+    display: flex;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.socials img{
+    margin-left: 10px;
+}
+.socials img {
+    width: 30px;
+    height: 30px;
+}
+.attribution{
+    background: whitesmoke;
+    margin-top: 0;
+}
+.begin{
+    margin-left: 50px;
+    text-align: left;
+}
+.began{
+    margin-left: 50px;
+    text-align: left;
+}
+.begun{
+    margin-left: 50px;
+    text-align: left;
+}
